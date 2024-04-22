@@ -1,0 +1,24 @@
+Pagina creada gracias a un template de la web https://htmlcodex.com
+
+
+¡Bienvenido a Hello World!
+¿Tu hijo tiene curiosidad por el mundo de la programación?
+
+En Hello World, estamos aquí para ayudar a los niños a explorar el fascinante mundo de la programación de una manera divertida y atractiva. 
+A través de nuestra plataforma, los niños pueden acceder a una amplia gama de recursos diseñados para despertar su interés en la tecnología y desarrollar habilidades esenciales para el siglo XXI.
+
+¿Qué ofrecemos?
+
+Informacion sobre guias introductorias a la programación: Enseñamos a los niños los fundamentos de la programación utilizando lenguajes amigables.
+Proyectos prácticos: Los niños pueden aplicar sus conocimientos de programación a través de proyectos reales y desafiantes, como crear juegos, animaciones y aplicaciones.
+Recursos de aprendizaje: Ofrecemos una amplia biblioteca de tutoriales, videos y actividades para que los niños aprendan a su propio ritmo.
+
+¿Por qué la programación es importante para los niños?
+
+Desarrolla habilidades para resolver problemas: La programación enseña a los niños a pensar de manera crítica, analizar problemas y encontrar soluciones creativas.
+Mejora la lógica y el pensamiento computacional: La programación ayuda a los niños a desarrollar habilidades de pensamiento lógico y a comprender cómo funcionan las computadoras.
+Fomenta la creatividad e innovación: La programación permite a los niños expresar su creatividad y crear cosas nuevas utilizando la tecnología.
+Prepara a los niños para el futuro: Las habilidades de programación son cada vez más demandadas en el mercado laboral actual, lo que brinda a los niños una ventaja competitiva en el futuro.
+¡Empieza hoy mismo!
+
+Disfruta de esta pagina web y comienza a explorar el mundo de la programación con tu hijo.
